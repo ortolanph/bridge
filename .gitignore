@@ -1,0 +1,11 @@
+## IntelliJ files
+
+.idea
+
+## Dolphin
+
+.directory
+
+## Terraform
+
+.terraform
